@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Aditya Pai! 👋
 
 ## 🚀 About Me
 I am an aspiring tech enthusiast currently exploring various domains within computer science. Right now, I'm focusing on building a rock-solid foundation, experimenting with data, and discovering where my ultimate tech passions lie.
