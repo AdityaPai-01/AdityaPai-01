@@ -5,9 +5,8 @@ I am an aspiring tech enthusiast currently exploring various domains within comp
 
 ---
 
-## 🛠️ Current Focus & Objectives
+## 🛠️ What I'm Up To Right Now
 
-* **Core Development:** Strengthening advanced **Python programming** proficiencies through architectural best practices and algorithmic problem-solving.
-* **Data Engineering & Analytics:** Implementing **NumPy**, **Pandas**, and **Matplotlib** to build robust data pipelines, manipulate complex datasets, and derive actionable insights.
-* **Domain Exploration:** Evaluating core methodologies and cross-functional intersections within **Data Science**, **Cloud Computing Infrastructure**, **Cybersecurity**, and **Software Engineering (SWE)** to identify long-term specialization paths.
----
+* **Python Development:** Actively strengthening my **Python programming skills** through hands-on projects and problem-solving.
+* **Data Analysis & Visualization:** Learning to manipulate datasets and build visual insights using **NumPy**, **Pandas**, and **Matplotlib**.
+* **Exploring the Tech Landscape:** Deepening my understanding of computer science fundamentals while exploring career paths in **Data Science**, **Cloud Computing**, **Cybersecurity**, and **Software Engineering (SWE)**.
